@@ -32,6 +32,7 @@
 .shoppy{
     color: #FFFFFF;
     font-family: Rubik Doodle Shadow;
+
     
 }
 .search-bar{
@@ -51,4 +52,11 @@
 .search-input{
     height: 4vh;
     width: 45vw;
+}
+@media only screen and (min-width: 300px) and (max-width: 600px){
+    .shoppy{
+    color: #FFFFFF;
+    font-family: Rubik Doodle Shadow;
+    font-size: 2.5vw;
+    }
 }
