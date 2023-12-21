@@ -1,0 +1,33 @@
+.products-image{
+    height: 400px;
+    width: 400px;
+}
+.product-details-container{
+    height: auto;
+    width: 100vw;
+    background: #e13faf;
+    background: -webkit-linear-gradient(263deg, #e13faf 0%, #984aea 100%);
+    background: linear-gradient(263deg, #e13faf 0%, #984aea 100%);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.p-details-flex{
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    
+}
+.image-name{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+
+}
+.pro-details{
+    color: white;
+}

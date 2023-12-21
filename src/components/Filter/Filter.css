@@ -1,0 +1,22 @@
+.filter-container{
+    height: 8vh;
+    width: 100vw;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid white;
+    box-sizing: border-box;
+   
+}
+.filter-btn{
+    height: 40px;
+    width: 100px;
+    border-radius: 8px;
+    background-color: rgba(0, 0, 0, 0.418);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+

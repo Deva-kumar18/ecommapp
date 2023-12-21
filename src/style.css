@@ -1,0 +1,16 @@
+@import url('./Pages/Content/Content.css');
+@import url('./Pages/LayoutPage/LayoutPage.css');
+@import url('./Pages/Navbar/Navbar.css');
+@import url('./Pages/Sidebar/Sidebar.css');
+@import url('./Pages/Products/Products.css');
+@import url('./Pages/ProductDetails/ProductDetails.css');
+@import url('./components/Filter/Filter.css');
+@import url('./Pages/Cart/Cart.css');
+
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+}

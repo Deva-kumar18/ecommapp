@@ -1,0 +1,15 @@
+.LayoutPage{
+    height: 100vh;
+    width: 100vw;
+    
+    position: relative;
+}
+.navbar-container{
+    position: absolute;
+    top: 0;
+}
+.content-container{
+    position: absolute;
+    top: 10vh;
+    
+}

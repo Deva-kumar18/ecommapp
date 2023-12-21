@@ -1,0 +1,54 @@
+.navbar-container{
+    height: 10vh;
+    width: 100vw;
+    background: #d18928;
+    background: -webkit-linear-gradient(62deg, #d18928 0%, #9107cd 100%);
+    background: linear-gradient(62deg, #d18928 0%, #9107cd 100%);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    border: 2px solid #FFFFFF;
+ 
+    
+}
+.shopping-cart-icon{
+    font-size: 8vh;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+    
+}
+.cart-badge{
+    padding: 2px;
+    font-size: 22px;
+  
+
+    
+    
+}
+.shoppy{
+    color: #FFFFFF;
+    font-family: Rubik Doodle Shadow;
+    
+}
+.search-bar{
+   
+    width: 40vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.search-icon{
+    font-size: 4.5vh;
+    color: black;
+    background-color: #FFFFFF;
+    display: flex;
+    align-items: center;
+}
+.search-input{
+    height: 4vh;
+    width: 45vw;
+}

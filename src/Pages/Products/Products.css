@@ -1,0 +1,65 @@
+.product-image{
+    height: 190px;
+    width: 160px;
+
+}
+.product-container{
+    height: auto;
+    width: auto;
+    background: rgba(89, 12, 232, 0.61);
+    -webkit-backdrop-filter: blur(23px);
+    backdrop-filter: blur(23px);
+    position: absolute;
+    top: 0;
+    display: flex;
+    flex-direction: column;
+    
+    
+    
+    
+    
+}
+.filter-div{
+    height: 10vh;
+    width: 100vw;
+}
+.product-title{
+    font-family: Rubik Doodle Shadow;
+    color: white;
+    letter-spacing: 1px;
+}
+.product-price{
+    font-family: Rubik Lines;
+    color: White;
+}
+.addcart-btn{
+    padding: 4px 14px;
+    border-radius: 4px;
+    background-color: #474bff;
+    border: none;
+    font-family: Russo One;
+    color: #FFFFFF;
+    letter-spacing: 1px;
+    border: 1px solid white;
+}
+.product-flex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.product-card{
+    height: 300px;
+    width: 190px;
+    background: #474bff;
+    background: -webkit-linear-gradient(191deg, #474bff 0%, #bc48ff 100%);
+    background: linear-gradient(191deg, #474bff 0%, #bc48ff 100%);
+    border-radius: 4vh;
+    margin: 1vw 1vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-sizing: border-box;
+    border: 2px solid white;
+    row-gap: 4px;
+}
